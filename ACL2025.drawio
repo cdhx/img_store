@@ -1,26 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="第 1 页" id="hGmQhAkQVx8E9nlvOrwL">
-    <mxGraphModel dx="989" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F7dwuFVo1csS7DEQl2De-1" value="DPO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="F7dwuFVo1csS7DEQl2De-1" value="DPO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F7dwuFVo1csS7DEQl2De-2" value="RDPO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="F7dwuFVo1csS7DEQl2De-2" value="RDPO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="255" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F7dwuFVo1csS7DEQl2De-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Response 1&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Lorem ipsum dolor sit amet, &lt;/b&gt;consectetur adipisicing elit, sed&amp;nbsp;&lt;br&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;do eiusmod tempor incididunt ut &lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;labore et dolore magna aliqua.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="330" width="190" height="120" as="geometry" />
+        <mxCell id="F7dwuFVo1csS7DEQl2De-5" value="EQUAL SCORE&lt;div&gt;&amp;nbsp;Score: 2 (T F T F)&lt;br&gt;Score: 2 (F T F T)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F7dwuFVo1csS7DEQl2De-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Response 2&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, &lt;br&gt;&lt;b&gt;consectetur adipisicing elit, sed&lt;/b&gt; &lt;br&gt;do eiusmod tempor incididunt ut &lt;br&gt;&lt;b&gt;labore et dolore magna aliqua.&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="330" width="200" height="120" as="geometry" />
+        <mxCell id="F7dwuFVo1csS7DEQl2De-6" value="Score: 0 (F F F F F F)&lt;br&gt;Score: 6 (T T T T T T)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="484" y="300" width="125" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="F7dwuFVo1csS7DEQl2De-5" value="EQUAL SCORE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="110" height="30" as="geometry" />
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-3" value="&lt;div&gt;&lt;b&gt;Response 2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;音乐像是一剂神奇的良药，能够治愈心灵。������ 听音乐时，它可以激发情感、减轻压力，甚至提升情绪。它帮助我们找到内心的平静，让思绪得以释放，像在静谧的湖面上激起的涟漪。请分享你最喜欢的曲风或歌曲，让我们一起探讨更多！---&lt;/div&gt;&lt;div&gt;使用 &#39;+1&#39; 或 &#39;-1&#39; 为你对这个回复的评价进行投票。&lt;/div&gt;&lt;div&gt;回答者在回复中的角色：助手&lt;/div&gt;&lt;div&gt;用户关于此回复的问题：对你关于音乐的解释有何其他想法？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-70" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="F7dwuFVo1csS7DEQl2De-6" value="4,0&lt;br&gt;3,1&lt;br&gt;1,3&lt;br&gt;0,4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="390" width="110" height="30" as="geometry" />
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-4" value="&lt;div&gt;&lt;b&gt;Response 1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;音乐能够治愈心灵的方式包括：&lt;/div&gt;&lt;div&gt;1. 释放压力&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 促进情绪表达&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. 激发正能量&amp;nbsp;&lt;/div&gt;&lt;div&gt;4. 增强社交连接&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. 带来宁静感&amp;nbsp;&lt;/div&gt;&lt;div&gt;请告诉我您对某个具体方面感兴趣，我们可以进一步讨论！您觉得这个回答满意吗？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-216" y="-60" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-5" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Original constrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中至少要使用一次&#39;请&#39;字，以保持礼貌。&lt;/div&gt;&lt;div&gt;2. 回复字数限制在100字以内，确保信息简洁明了。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，必须使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，必须包含至少一个emoji，以增加互动性。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，必须询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="85" width="550" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-6" value="1. 满足&lt;br&gt;2. 满足&lt;div&gt;3. 满足&lt;br&gt;4. 不满足&lt;/div&gt;&lt;div&gt;5.不满足&lt;br&gt;6. 不满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-7" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-8" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;New onstrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中禁止使用一次&#39;请&#39;字。&lt;/div&gt;&lt;div&gt;2. 回复字数至少100字，确保信息丰富。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，不可以使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，禁止包含emoji。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，不可以询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="230" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-9" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="110" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-10" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="270" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-11" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-12" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;New onstrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中禁止使用一次&#39;请&#39;字。&lt;/div&gt;&lt;div&gt;2. 回复字数至少100字，确保信息丰富。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，不可以使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，禁止包含emoji。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，不可以询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-221" y="370" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-13" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-14" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;Query:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;你觉得音乐能如何治愈心灵？&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-90" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
