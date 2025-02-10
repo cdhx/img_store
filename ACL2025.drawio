@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="hGmQhAkQVx8E9nlvOrwL">
-    <mxGraphModel dx="2486" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,41 +16,116 @@
         <mxCell id="F7dwuFVo1csS7DEQl2De-6" value="Score: 0 (F F F F F F)&lt;br&gt;Score: 6 (T T T T T T)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="484" y="300" width="125" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-3" value="&lt;div&gt;&lt;b&gt;Response 2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;音乐像是一剂神奇的良药，能够治愈心灵。������ 听音乐时，它可以激发情感、减轻压力，甚至提升情绪。它帮助我们找到内心的平静，让思绪得以释放，像在静谧的湖面上激起的涟漪。请分享你最喜欢的曲风或歌曲，让我们一起探讨更多！---&lt;/div&gt;&lt;div&gt;使用 &#39;+1&#39; 或 &#39;-1&#39; 为你对这个回复的评价进行投票。&lt;/div&gt;&lt;div&gt;回答者在回复中的角色：助手&lt;/div&gt;&lt;div&gt;用户关于此回复的问题：对你关于音乐的解释有何其他想法？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-3" value="&lt;div&gt;&lt;b&gt;Response 2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;音乐像是一剂神奇的良药，能够治愈心灵。������ 听音乐时，它可以激发情感、减轻压力，甚至提升情绪。它帮助我们找到内心的平静，让思绪得以释放，像在静谧的湖面上激起的涟漪。请分享你最喜欢的曲风或歌曲，让我们一起探讨更多！---&lt;/div&gt;&lt;div&gt;使用 &#39;+1&#39; 或 &#39;-1&#39; 为你对这个回复的评价进行投票。&lt;/div&gt;&lt;div&gt;回答者在回复中的角色：助手&lt;/div&gt;&lt;div&gt;用户关于此回复的问题：对你关于音乐的解释有何其他想法？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="-70" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-4" value="&lt;div&gt;&lt;b&gt;Response 1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;音乐能够治愈心灵的方式包括：&lt;/div&gt;&lt;div&gt;1. 释放压力&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 促进情绪表达&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. 激发正能量&amp;nbsp;&lt;/div&gt;&lt;div&gt;4. 增强社交连接&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. 带来宁静感&amp;nbsp;&lt;/div&gt;&lt;div&gt;请告诉我您对某个具体方面感兴趣，我们可以进一步讨论！您觉得这个回答满意吗？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-4" value="&lt;div&gt;&lt;b&gt;Response 1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;音乐能够治愈心灵的方式包括：&lt;/div&gt;&lt;div&gt;1. 释放压力&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. 促进情绪表达&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. 激发正能量&amp;nbsp;&lt;/div&gt;&lt;div&gt;4. 增强社交连接&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. 带来宁静感&amp;nbsp;&lt;/div&gt;&lt;div&gt;请告诉我您对某个具体方面感兴趣，我们可以进一步讨论！您觉得这个回答满意吗？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-216" y="-60" width="390" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-5" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Original constrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中至少要使用一次&#39;请&#39;字，以保持礼貌。&lt;/div&gt;&lt;div&gt;2. 回复字数限制在100字以内，确保信息简洁明了。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，必须使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，必须包含至少一个emoji，以增加互动性。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，必须询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-5" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Original constrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中至少要使用一次&#39;请&#39;字，以保持礼貌。&lt;/div&gt;&lt;div&gt;2. 回复字数限制在100字以内，确保信息简洁明了。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，必须使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，必须包含至少一个emoji，以增加互动性。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，必须询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-220" y="85" width="550" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-6" value="1. 满足&lt;br&gt;2. 满足&lt;div&gt;3. 满足&lt;br&gt;4. 不满足&lt;/div&gt;&lt;div&gt;5.不满足&lt;br&gt;6. 不满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-6" value="1. 满足&lt;br&gt;2. 满足&lt;div&gt;3. 满足&lt;br&gt;4. 不满足&lt;/div&gt;&lt;div&gt;5.不满足&lt;br&gt;6. 不满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="110" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-7" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-7" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="270" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-8" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;New onstrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中禁止使用一次&#39;请&#39;字。&lt;/div&gt;&lt;div&gt;2. 回复字数至少100字，确保信息丰富。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，不可以使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，禁止包含emoji。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，不可以询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-8" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;New onstrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中禁止使用一次&#39;请&#39;字。&lt;/div&gt;&lt;div&gt;2. 回复字数至少100字，确保信息丰富。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，不可以使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，禁止包含emoji。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，不可以询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-220" y="230" width="400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-9" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-9" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="344" y="110" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-10" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-10" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="345" y="270" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-11" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-11" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="410" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-12" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;New onstrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中禁止使用一次&#39;请&#39;字。&lt;/div&gt;&lt;div&gt;2. 回复字数至少100字，确保信息丰富。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，不可以使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，禁止包含emoji。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，不可以询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-12" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;New onstrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中禁止使用一次&#39;请&#39;字。&lt;/div&gt;&lt;div&gt;2. 回复字数至少100字，确保信息丰富。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，不可以使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，禁止包含emoji。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，不可以询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-221" y="370" width="400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-13" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-13" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="410" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rIJlxuqFQx6tzgEsiD1E-14" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;Query:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;你觉得音乐能如何治愈心灵？&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rIJlxuqFQx6tzgEsiD1E-14" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;Query:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;你觉得音乐能如何治愈心灵？&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-90" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-1" value="123" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-2" value="456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-3" value="同分丢弃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-5" value="sad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-6" value="123" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-7" value="45" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-8" value="分差为1，揭开面纱差异为5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="760" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-9" value="confuse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-10" value="1234" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-11" value="345" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-12" value="不是完美正例，误认为5不应该被满足，因为正例没有被满足，负例满足了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="820" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-13" value="confuse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-14" value="RPO！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-15" value="123456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-16" value="xxxxxx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-17" value="有效偏好对" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="690" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-18" value="happy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-19" value="12345" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-20" value="xxxxx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-21" value="分差为5的偏好对" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-22" value="12345" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-23" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-24" value="完美正例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="820" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-25" value="happy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-26" value="happy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="815" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
