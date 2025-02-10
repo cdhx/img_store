@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="hGmQhAkQVx8E9nlvOrwL">
-    <mxGraphModel dx="2022" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="360" y="410" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rIJlxuqFQx6tzgEsiD1E-12" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;New onstrain&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 回复中禁止使用一次&#39;请&#39;字。&lt;/div&gt;&lt;div&gt;2. 回复字数至少100字，确保信息丰富。&lt;/div&gt;&lt;div&gt;3. 在展示列表或表格内容时，不可以使用项目符号或编号来增强可读性。&lt;/div&gt;&lt;div&gt;4. 文本生成时，禁止包含emoji。&lt;/div&gt;&lt;div&gt;5. 每次生成文本后，不可以询问用户是否满意。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-221" y="370" width="400" height="140" as="geometry" />
+          <mxGeometry x="30" y="514.5" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rIJlxuqFQx6tzgEsiD1E-13" value="1. 不满足&lt;br&gt;2. 不满足&lt;div&gt;3. 不满足&lt;br&gt;4. 满足&lt;/div&gt;&lt;div&gt;5. 满足&lt;br&gt;6. 满足&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="410" width="140" height="100" as="geometry" />
@@ -168,6 +168,12 @@
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-46" value="完美" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="930" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="121" y="585" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-48" value="&lt;div&gt;&lt;b&gt;Query&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="520" width="400" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
