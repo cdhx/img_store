@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="660" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-174" y="660" width="344" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="F7dwuFVo1csS7DEQl2De-1" value="DPO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -53,40 +59,34 @@
           <mxGeometry x="50" y="-90" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-1" value="123" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="-174" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-2" value="456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="-54" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-3" value="同分丢弃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="66" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-5" value="sad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="-190" y="660" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-6" value="123" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="760" width="60" height="30" as="geometry" />
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-6" value="1234" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-174" y="760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-7" value="45" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="760" width="60" height="30" as="geometry" />
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-7" value="456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-8" value="分差为1，揭开面纱差异为5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="760" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-9" value="confuse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="760" width="60" height="30" as="geometry" />
+          <mxGeometry x="56" y="760" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-10" value="1234" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="820" width="60" height="30" as="geometry" />
+          <mxGeometry x="-174" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-11" value="345" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="820" width="60" height="30" as="geometry" />
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-11" value="456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-12" value="不是完美正例，误认为5不应该被满足，因为正例没有被满足，负例满足了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="820" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-13" value="confuse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="820" width="60" height="30" as="geometry" />
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-12" value="负例有的地方比正例好，误认为56不应该被满足，因为正例没有被满足，负例满足了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="820" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-14" value="RPO！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="760" width="60" height="30" as="geometry" />
@@ -101,31 +101,73 @@
           <mxGeometry x="560" y="690" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGaU4Q6wwcU1v_ELB2HD-18" value="happy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="600" y="650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-19" value="12345" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-19" value="123456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-20" value="xxxxx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-20" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-21" value="分差为5的偏好对" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="760" width="60" height="30" as="geometry" />
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-21" value="分差为5的偏好对，更大分差，更真实差异" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="760" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-22" value="12345" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-22" value="123456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-23" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-23" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="424" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-24" value="完美正例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-24" value="正例严格优于负例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="820" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-25" value="happy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="760" width="60" height="30" as="geometry" />
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-27" value="1234" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-174" y="890" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-26" value="happy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="815" width="60" height="40" as="geometry" />
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-28" value="34" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-29" value="不是完美正例，56学不到" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="66" y="890" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-34" value="完全不交叉" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-301" y="700" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-35" value="有交叉" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-36" value="严格优于但正例不完美" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="880" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-37" value="123456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-174" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-38" value="34" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-39" value="完美" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="930" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-40" value="严格优于且正例完美" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-301" y="940" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-41" value="完美正例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="890" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-42" value="123456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-43" value="34" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-44" value="123456" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-45" value="34" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGaU4Q6wwcU1v_ELB2HD-46" value="完美" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="930" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
