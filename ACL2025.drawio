@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="hGmQhAkQVx8E9nlvOrwL">
-    <mxGraphModel dx="1979" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,11 +190,11 @@
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-7" value="sad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-699" y="685.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-10" value="score difference is 1, but differ in&amp;nbsp; 5 aspect&lt;br&gt;&lt;br&gt;&lt;div&gt;rejected response is better on certain aspect, may mislead that 5/6 should not to follow&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-10" value="1. score difference is 1, but differ in&amp;nbsp; 5 aspect&lt;br&gt;&lt;div&gt;2. rejected response is better on certain aspect, may mislead that 5/6 should not to follow&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-481" y="783.75" width="139" height="96.25" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-14" value="DPO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-541" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="-570" y="655.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-15" value="&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;123456&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="753.75" width="60" height="30" as="geometry" />
@@ -211,17 +211,17 @@
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-20" value="&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-176" y="813" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-21" value="&lt;div&gt;preference pairs with a score difference of 5 (real gap)&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the chosen response is&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;strictly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dominate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the rejected ones&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-21" value="&lt;div&gt;1. preference pairs with a score difference of 5 (real gap)&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. the chosen response is&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;strictly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dominate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the rejected ones&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-122.5" y="782.12" width="133.5" height="99.5" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-27" value="unperfect chosen response, may mislead 5/6 is not required" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-481" y="900" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-28" value="Disjoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-689" y="740.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="-667" y="745.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-29" value="Overlap (partial)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-689" y="800.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="-667" y="800.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-33" value="perfect example, but hard to obtain" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-481" y="956" width="123" height="30" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry x="-120" y="956" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-41" value="RPO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-176" y="640.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-169" y="655.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-42" value="best response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-599" y="710" width="60" height="30" as="geometry" />
@@ -245,13 +245,13 @@
           <mxGeometry x="-539" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-45" value="Dominated (unperfect)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-687" y="886" width="80" height="30" as="geometry" />
+          <mxGeometry x="-673" y="877.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-47" value="Dominated (perfect)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-689" y="940" width="80" height="30" as="geometry" />
+          <mxGeometry x="-673" y="950" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-48" value="Answer this question and follow constrain:&amp;nbsp;&lt;span style=&quot;color: rgb(151, 208, 119);&quot;&gt;123456&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-644" y="620" width="610" height="30" as="geometry" />
+          <mxGeometry x="-626" y="640" width="610" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-52" value="follow &lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;123&amp;nbsp;&lt;/font&gt;&lt;div&gt;donot follow &lt;font style=&quot;color: rgb(234, 107, 102);&quot;&gt;456&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-336" y="753.75" width="96" height="30" as="geometry" />
@@ -287,7 +287,7 @@
           <mxGeometry x="-333" y="813" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-67" value="follow &lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;1234&amp;nbsp;&lt;/font&gt;&lt;div&gt;donot follow &lt;font style=&quot;color: rgb(234, 107, 102);&quot;&gt;56&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-331" y="900" width="96" height="30" as="geometry" />
+          <mxGeometry x="-336" y="900" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-68" value="best response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-237" y="715.5" width="60" height="30" as="geometry" />
@@ -303,6 +303,9 @@
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-73" value="&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;34&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-173.5" y="956" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-74" value="follow &lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;123456&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-331" y="956" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
