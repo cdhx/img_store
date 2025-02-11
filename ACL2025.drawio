@@ -184,13 +184,13 @@
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-687" y="685.5" width="344" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-6" value="same score, invalid preference pair" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-6" value="Same score, invalid preference pair" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-479" y="740.5" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-7" value="sad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-699" y="685.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-10" value="1. score difference is 1, but differ in&amp;nbsp; 5 aspect&lt;br&gt;&lt;div&gt;2. rejected response is better on certain aspect, may mislead that 5/6 should not to follow&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-10" value="1. Score difference is 1, but differ in&amp;nbsp; 5 aspect&lt;br&gt;&lt;div&gt;2. Rejected response is better on certain aspect, may mislead that 5/6 should not to follow&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-481" y="783.75" width="139" height="96.25" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-14" value="DPO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -214,7 +214,7 @@
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-21" value="&lt;div&gt;1. preference pairs with a score difference of 5 (real gap)&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. the chosen response is&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;strictly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dominate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the rejected ones&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-122.5" y="782.12" width="133.5" height="99.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-27" value="unperfect chosen response, may mislead 5/6 is not required" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-27" value="Unperfect chosen response, may mislead 5/6 is not required" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-481" y="900" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-28" value="Disjoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -223,7 +223,7 @@
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-29" value="Overlap (partial)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-667" y="800.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-33" value="perfect example, but hard to obtain" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-33" value="Perfect example, but hard to obtain" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-481" y="956" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-35" value="perfect chosen respone" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -232,17 +232,11 @@
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-36" value="&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;123456&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-235" y="900" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-40" value="perfect example, but hard to obtain" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="956" width="104" height="30" as="geometry" />
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-40" value="Perfect example, but hard to obtain" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-113.5" y="956" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-41" value="RPO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-169" y="655.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-42" value="best response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-599" y="710" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-43" value="worst response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-539" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-45" value="Dominated (unperfect)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-673" y="877.75" width="80" height="30" as="geometry" />
@@ -289,13 +283,13 @@
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-67" value="follow &lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;1234&amp;nbsp;&lt;/font&gt;&lt;div&gt;donot follow &lt;font style=&quot;color: rgb(234, 107, 102);&quot;&gt;56&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-336" y="900" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-68" value="best response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-68" value="Best Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-237" y="715.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-69" value="worst response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-177" y="715.5" width="60" height="30" as="geometry" />
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-69" value="Worst Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-173.5" y="715.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeN7UpQ6VWVj921w3bB4-70" value="reversed query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-70" value="Reversed Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-318" y="715.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-72" value="&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;34&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -306,6 +300,21 @@
         </mxCell>
         <mxCell id="ZeN7UpQ6VWVj921w3bB4-74" value="follow &lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;123456&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-331" y="956" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-75" value="Best Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-599" y="706" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-76" value="Worst Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-533" y="706" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-77" value="Type" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-661" y="706" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-78" value="Issue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="706" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeN7UpQ6VWVj921w3bB4-80" value="Issue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="715.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
