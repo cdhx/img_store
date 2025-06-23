@@ -947,32 +947,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-10" value="复杂设定下的推理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="470" width="300" height="200" as="geometry" />
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BWXTWSyoGXfWpphwRgn7-10" target="BWXTWSyoGXfWpphwRgn7-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-9" value="复杂问题理解与求解&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="240" width="300" height="200" as="geometry" />
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-10" value="复杂设定下的推理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="474" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BWXTWSyoGXfWpphwRgn7-9" target="BWXTWSyoGXfWpphwRgn7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-9" value="复杂问题的推理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="273" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWXTWSyoGXfWpphwRgn7-2" target="BWXTWSyoGXfWpphwRgn7-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-2" value="&lt;b&gt;第一章&lt;/b&gt;&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="110" y="400" width="100" height="60" as="geometry" />
+          <mxGeometry x="130" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BWXTWSyoGXfWpphwRgn7-3" target="BWXTWSyoGXfWpphwRgn7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BWXTWSyoGXfWpphwRgn7-3" target="BWXTWSyoGXfWpphwRgn7-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-3" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第二章&lt;/b&gt;&lt;div&gt;预备知识&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="270" y="400" width="100" height="60" as="geometry" />
+          <mxGeometry x="270" y="430" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-4" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第三章&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;基于问题分解树的知识库问答方法&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;spacing=3;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="240" height="60" as="geometry" />
+          <mxGeometry x="470" y="300" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-5" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第四章&lt;/b&gt;&lt;div&gt;知识库问答中的数值推理问题研究&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="240" height="60" as="geometry" />
+          <mxGeometry x="470" y="370" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-6" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第五章&lt;/b&gt;&lt;div&gt;基于环境反馈进行自纠错的知识库问答方法&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="440" y="510" width="240" height="60" as="geometry" />
+          <mxGeometry x="470" y="505" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-7" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第六章&lt;/b&gt;&lt;div&gt;基于目标导向合成数据的知识库问答方法&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="440" y="585" width="240" height="60" as="geometry" />
+          <mxGeometry x="470" y="575" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-8" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第七章&lt;/b&gt;&lt;div&gt;总结与展望&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="750" y="400" width="100" height="60" as="geometry" />
+          <mxGeometry x="800" y="430" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
