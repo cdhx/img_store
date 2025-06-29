@@ -977,13 +977,13 @@
         <mxCell id="BWXTWSyoGXfWpphwRgn7-4" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第三章&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;基于问题分解树的知识库问答方法&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;(解决由简单问题组合导致的多跳多约束推理)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="300" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-5" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第四章&lt;/b&gt;&lt;div&gt;知识库问答中的数值推理问题研究&lt;/div&gt;&lt;div&gt;（解决数值推理以及数值推理和多跳多约束推理结合的问题）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-5" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第四章&lt;/b&gt;&lt;div&gt;知识库问答中的数值推理问题研究&lt;/div&gt;&lt;div&gt;（解决数值推理和多跳多约束推理的结合）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="370" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-6" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第五章&lt;/b&gt;&lt;div&gt;基于环境反馈进行自纠错的知识库问答方法&lt;/div&gt;&lt;div&gt;（少样本场景下高效可靠的推理）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="505" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-7" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第六章&lt;/b&gt;&lt;div&gt;基于目标导向合成数据的知识库问答方法&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-7" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第六章&lt;/b&gt;&lt;div&gt;基于目标导向合成数据的知识库问答方法&lt;/div&gt;&lt;div&gt;（提升泛化性）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="575" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-8" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第七章&lt;/b&gt;&lt;div&gt;总结与展望&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
