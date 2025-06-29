@@ -955,8 +955,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-10" value="复杂设定下的推理&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="440" y="474" width="290" height="160" as="geometry" />
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-10" value="复杂设定下的推理&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="440" y="474" width="290" height="175" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BWXTWSyoGXfWpphwRgn7-9" target="BWXTWSyoGXfWpphwRgn7-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -966,8 +966,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-9" value="复杂问题的推理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="440" y="273" width="290" height="160" as="geometry" />
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-9" value="复杂问题的推理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="440" y="273" width="290" height="175" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BWXTWSyoGXfWpphwRgn7-2" target="BWXTWSyoGXfWpphwRgn7-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -984,17 +984,17 @@
         <mxCell id="BWXTWSyoGXfWpphwRgn7-3" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第二章&lt;/b&gt;&lt;div&gt;预备知识&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="270" y="430" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-4" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第三章&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;基于问题分解树的知识库问答方法&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;(简单问题组合导致的&lt;b&gt;多跳多约束推理&lt;/b&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="460" y="301" width="250" height="58" as="geometry" />
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-4" value="&lt;div style=&quot;line-height: 180%;&quot;&gt;&lt;b&gt;第三章&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;基于问题分解树的知识库问答方法&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;(简单问题组合导致的&lt;b&gt;多跳多约束推理&lt;/b&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="460" y="302" width="250" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-5" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第四章&lt;/b&gt;&lt;div&gt;知识库问答中的数值推理问题研究&lt;/div&gt;&lt;div&gt;（&lt;b&gt;数值推理&lt;/b&gt;和多跳多约束推理的结合）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="460" y="366" width="250" height="58" as="geometry" />
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-5" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;&lt;b&gt;第四章&lt;/b&gt;&lt;div&gt;知识库问答中的数值推理问题研究&lt;/div&gt;&lt;div&gt;（&lt;b&gt;数值推理&lt;/b&gt;和多跳多约束推理的结合）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="460" y="375" width="250" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-6" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第五章&lt;/b&gt;&lt;div&gt;基于环境反馈进行自纠错的知识库问答方法&lt;/div&gt;&lt;div&gt;（&lt;b&gt;少样本&lt;/b&gt;场景下高效可靠的推理）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="460" y="500" width="250" height="58" as="geometry" />
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-6" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;&lt;b&gt;第五章&lt;/b&gt;&lt;div&gt;基于环境反馈进行自纠错的知识库问答方法&lt;/div&gt;&lt;div&gt;（&lt;b&gt;少样本&lt;/b&gt;场景下高效可靠的推理）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="460" y="503" width="250" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="BWXTWSyoGXfWpphwRgn7-7" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第六章&lt;/b&gt;&lt;div&gt;基于目标导向合成数据的知识库问答方法&lt;/div&gt;&lt;div&gt;（&lt;b&gt;零标注&lt;/b&gt;场景下高&lt;b&gt;泛化性&lt;/b&gt;的推理）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="460" y="567" width="250" height="58" as="geometry" />
+        <mxCell id="BWXTWSyoGXfWpphwRgn7-7" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;&lt;b&gt;第六章&lt;/b&gt;&lt;div&gt;基于目标导向合成数据的知识库问答方法&lt;/div&gt;&lt;div&gt;（&lt;b&gt;零标注&lt;/b&gt;场景下高&lt;b&gt;泛化性&lt;/b&gt;的推理）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="460" y="576" width="250" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BWXTWSyoGXfWpphwRgn7-8" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;第七章&lt;/b&gt;&lt;div&gt;总结与展望&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=3;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="796" y="430" width="100" height="55" as="geometry" />
