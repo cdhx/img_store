@@ -1125,10 +1125,10 @@
           <mxGeometry x="470" y="140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-13" value="一个例子，说明只学到偏序关系没学到差异" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-892" y="50" width="162" height="30" as="geometry" />
+          <mxGeometry x="-900" y="70" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-14" value="差异难以衡量的例子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="130" height="30" as="geometry" />
+          <mxGeometry x="460" y="80" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
