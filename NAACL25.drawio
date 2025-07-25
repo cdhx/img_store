@@ -1103,20 +1103,20 @@
             <mxGeometry x="-900" y="675" width="820" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="4LPciE_46odV3JEyp8su-4" value="Pair-wise alignment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="140" width="375" height="30" as="geometry" />
+        <mxCell id="4LPciE_46odV3JEyp8su-4" value="Pair-wise alignment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-738" y="145" width="375" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="840" width="305" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="4LPciE_46odV3JEyp8su-5" value="Subjecteive task" style="text;whiteSpace=wrap;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="110" y="135" width="220" height="40" as="geometry" />
+        <mxCell id="4LPciE_46odV3JEyp8su-5" value="Subjecteive task" style="text;whiteSpace=wrap;fontSize=29;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="135" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-7" value="The quality differences between responses are subtle and hard to quantify." style="text;whiteSpace=wrap;fontSize=25;align=center;" vertex="1" parent="1">
           <mxGeometry x="-30" y="180" width="490" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4LPciE_46odV3JEyp8su-9" value="Add Margin?" style="text;whiteSpace=wrap;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="175" width="160" height="50" as="geometry" />
+        <mxCell id="4LPciE_46odV3JEyp8su-9" value="Add Margin?" style="text;whiteSpace=wrap;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-230" y="175" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-880" y="135" width="80" height="80" as="geometry" />
@@ -1129,6 +1129,9 @@
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-14" value="差异难以衡量的例子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4LPciE_46odV3JEyp8su-15" value="问号小人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="70" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
