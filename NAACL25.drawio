@@ -1041,7 +1041,7 @@
         </UserObject>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u5fa3388b&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;mDLGp&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/e75e689a603a27286b3f6bb25b1bd291.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u5fa3388b&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;mDLGp&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/e75e689a603a27286b3f6bb25b1bd291.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-10">
           <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="95" y="705" width="450" height="50" as="geometry" />
+            <mxGeometry x="70" y="695" width="450" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="fJYHROx5AftB4-wIJ66V-11" value="Reinforcement Learning Objective:" style="text;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
@@ -1116,13 +1116,19 @@
           <mxGeometry x="-30" y="180" width="490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-9" value="Add Margin?" style="text;whiteSpace=wrap;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="175" width="160" height="50" as="geometry" />
+          <mxGeometry x="-220" y="175" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-880" y="135" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4LPciE_46odV3JEyp8su-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4LPciE_46odV3JEyp8su-13" value="一个例子，说明只学到偏序关系没学到差异" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-892" y="50" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4LPciE_46odV3JEyp8su-14" value="差异难以衡量的例子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
