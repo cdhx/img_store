@@ -1003,7 +1003,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CosR_VbUOMPLM7HyR1vb" name="第 11 页">
-    <mxGraphModel dx="2170" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2963" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1028,14 +1028,14 @@
             <mxGeometry x="-610" y="300" width="30" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="caRc5chFcHb_rG9yNjOp-12" value="&lt;div&gt;&amp;nbsp;In subjective tasks, the quality differences between在主观任务中，质量差异&lt;/div&gt;&lt;div&gt;responses are often subtle and difficult to quantify.&amp;nbsp;反应通常是微妙的，难以量化。&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="caRc5chFcHb_rG9yNjOp-12" value="&lt;div&gt;&amp;nbsp;In subjective tasks, the quality differences between&lt;/div&gt;&lt;div&gt;responses are often subtle and difficult to quantify.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-533" y="740" width="1263" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="caRc5chFcHb_rG9yNjOp-13" value="&lt;div&gt;pair-wise alignment&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;only learn preference order&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;failed to learn the difference between responses&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="550" width="316" height="90" as="geometry" />
+        <mxCell id="caRc5chFcHb_rG9yNjOp-13" value="&lt;div&gt;pair-wise alignment&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;only learn preference order&lt;/div&gt;&lt;div&gt;failed to learn the difference between responses&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="70" width="316" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="caRc5chFcHb_rG9yNjOp-14" value="&lt;div&gt;subjecteive task&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;hard to subtle and quatify the quality&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="511" y="545" width="316" height="95" as="geometry" />
+        <mxCell id="caRc5chFcHb_rG9yNjOp-14" value="&lt;div&gt;subjecteive task&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;hard to subtle and quatify the quality&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="316" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
