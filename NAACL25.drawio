@@ -1003,7 +1003,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CosR_VbUOMPLM7HyR1vb" name="第 11 页">
-    <mxGraphModel dx="3275" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3293" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1034,87 +1034,84 @@
         <mxCell id="caRc5chFcHb_rG9yNjOp-14" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: rgb(255, 255, 255);&quot;&gt;the quality differences between&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;responses are subtle and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hard&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;to quantify.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="50" y="160" width="390" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="620" y="430" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;pair-wise alignment&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;pair-wise alignment&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-480" y="120" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;subjecteive task&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;subjecteive task&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="170" y="120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Add Margin?&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Add Margin?&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;align=center;" parent="1" vertex="1">
           <mxGeometry x="-160" y="140" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-8" value="&lt;div&gt;How to identify a&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;more reliable and objective method for measuring pref&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;erence margins?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-8" value="&lt;div&gt;How to identify a&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;more reliable and objective method for measuring pref&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;erence margins?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-450" y="260" width="810" height="100" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u74d310d2&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;w1Zbz&quot; class=&quot;ne-math&quot; style=&quot;color: rgb(25, 27, 31)&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/d8e997f62a44a07a5bdad56d47836358.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u74d310d2&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;w1Zbz&quot; class=&quot;ne-math&quot; style=&quot;color: rgb(25, 27, 31)&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/d8e997f62a44a07a5bdad56d47836358.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-9">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="150" y="1370" width="380" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u5fa3388b&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;mDLGp&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/e75e689a603a27286b3f6bb25b1bd291.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u5fa3388b&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;mDLGp&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/e75e689a603a27286b3f6bb25b1bd291.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-10">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="95" y="680" width="450" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-11" value="Reinforcement Learning Objective:" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-11" value="Reinforcement Learning Objective:" style="text;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-150" y="380" width="280" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;ufb99f447&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;LVWG9&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/326bb432774e0abb71a97d0c3b37860e.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;ufb99f447&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;LVWG9&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/326bb432774e0abb71a97d0c3b37860e.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-12">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-570" y="420" width="530" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u7f6c4352&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;GMdwy&quot; class=&quot;ne-math&quot; style=&quot;color: rgb(25, 27, 31)&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/fa3d77c2b1ff5a33e755db48e63493ce.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u7f6c4352&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;GMdwy&quot; class=&quot;ne-math&quot; style=&quot;color: rgb(25, 27, 31)&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/fa3d77c2b1ff5a33e755db48e63493ce.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-13">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-340" y="460" width="290" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-14" value="Bradley-Terry Model:" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-14" value="Bradley-Terry Model:" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="90" y="640" width="140" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;gYkK3&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/7edaa4b24b9dbe0158996f5c7c877e7d.svg&quot;&gt;&lt;/span&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;gYkK3&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/7edaa4b24b9dbe0158996f5c7c877e7d.svg&quot;&gt;&lt;/span&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-16">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="50" y="436" width="410" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12.5;endSize=6.733333333333333;" edge="1" parent="1">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12.5;endSize=6.733333333333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-30" y="470" as="sourcePoint" />
             <mxPoint x="30" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u86e46eee&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;Q0KXE&quot; class=&quot;ne-math&quot; style=&quot;color: rgb(51, 51, 51)&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/e1703761ec94025de322841b10f3eab7.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u86e46eee&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;Q0KXE&quot; class=&quot;ne-math&quot; style=&quot;color: rgb(51, 51, 51)&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/e1703761ec94025de322841b10f3eab7.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-18">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="95" y="570" width="320" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12.5;endSize=6.733333333333333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fJYHROx5AftB4-wIJ66V-16" target="fJYHROx5AftB4-wIJ66V-18">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12.5;endSize=6.733333333333333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fJYHROx5AftB4-wIJ66V-16" target="fJYHROx5AftB4-wIJ66V-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="475.58000000000004" as="sourcePoint" />
             <mxPoint x="680" y="475.58000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJYHROx5AftB4-wIJ66V-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12.5;endSize=6.733333333333333;" edge="1" parent="1">
+        <mxCell id="fJYHROx5AftB4-wIJ66V-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12.5;endSize=6.733333333333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="650" as="sourcePoint" />
             <mxPoint x="-30" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u1d445548&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px&quot;&gt;&lt;span id=&quot;AjeDm&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/f40ff8d1e9f3aeab6298d5bdf8ddbd3e.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u1d445548&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px&quot;&gt;&lt;span id=&quot;AjeDm&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/f40ff8d1e9f3aeab6298d5bdf8ddbd3e.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-21">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-900" y="570" width="850" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u1d445548&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px&quot;&gt;&lt;span id=&quot;TsWkz&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/65218cabbb283315e0eb5c949667381f.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u1d445548&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px&quot;&gt;&lt;span id=&quot;TsWkz&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/65218cabbb283315e0eb5c949667381f.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-22">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-890" y="650" width="820" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;ube48e6b1&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;kV3MX&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/eae3b8aaddac3abcb1d216413c2e2f74.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" link="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;ube48e6b1&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px; text-align: center&quot;&gt;&lt;span id=&quot;kV3MX&quot; class=&quot;ne-math&quot;&gt;&lt;img src=&quot;https://intranetproxy.alipay.com/skylark/lark/__latex/eae3b8aaddac3abcb1d216413c2e2f74.svg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" id="fJYHROx5AftB4-wIJ66V-23">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-480" y="820" width="370" height="80" as="geometry" />
           </mxCell>
         </UserObject>
