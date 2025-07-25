@@ -1133,6 +1133,9 @@
         <mxCell id="4LPciE_46odV3JEyp8su-15" value="问号小人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="70" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4LPciE_46odV3JEyp8su-16" value="后面这部分包起来，换个颜色，用M表示一下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="760" width="270" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
